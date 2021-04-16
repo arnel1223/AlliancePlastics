@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AlliancePlastics.iml" filepath="$PROJECT_DIR$/.idea/modules/AlliancePlastics.iml" group="AlliancePlastics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="AlliancePlastics/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1673659429/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1673659429/react-native-community_masked-view.iml" group="AlliancePlastics/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-299394724/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-299394724/react-native-gesture-handler.iml" group="AlliancePlastics/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/320556398/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/320556398/react-native-linear-gradient.iml" group="AlliancePlastics/react-native-linear-gradient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1415682880/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1415682880/react-native-reanimated.iml" group="AlliancePlastics/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/695847621/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/695847621/react-native-safe-area-context.iml" group="AlliancePlastics/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-515248867/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-515248867/react-native-screens.iml" group="AlliancePlastics/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1013222744/react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-1013222744/react-native-splash-screen.iml" group="AlliancePlastics/react-native-splash-screen" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1256306289/react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-1256306289/react-native-webview.iml" group="AlliancePlastics/react-native-webview" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1864274247/react-native-youtube.iml" filepath="$PROJECT_DIR$/.idea/modules/-1864274247/react-native-youtube.iml" group="AlliancePlastics/react-native-youtube" />
+    </modules>
+  </component>
+</project>

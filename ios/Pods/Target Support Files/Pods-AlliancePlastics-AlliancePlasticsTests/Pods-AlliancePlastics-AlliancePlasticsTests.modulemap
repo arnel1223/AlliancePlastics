@@ -1,0 +1,6 @@
+module Pods_AlliancePlastics_AlliancePlasticsTests {
+  umbrella header "Pods-AlliancePlastics-AlliancePlasticsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
